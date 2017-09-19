@@ -1,0 +1,16 @@
+.section-services .service-item {
+  padding: 30px;
+  margin-bottom: 30px;
+  position: relative;
+ 
+}
+.section-services .service-item:after {
+  content: "";
+  display: table;
+  clear: both;
+  clear: both;
+}
+.section-services .service-item .service-image {
+  float: left;
+  margin-right: 30px;
+  
